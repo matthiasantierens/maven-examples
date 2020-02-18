@@ -100,5 +100,7 @@
         <war.remote.dir></war.remote.dir>
         <war.remote.server.id>war</war.remote.server.id>
         <war.remote.url></war.remote.url>
+        <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.target>1.6</maven.compiler.target>
     </properties>
 </project>
